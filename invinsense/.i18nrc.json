@@ -1,0 +1,7 @@
+{
+  "prefix": "invinsense",
+  "paths": {
+    "invinsense": "."
+  },
+  "translations": ["translations/ja-JP.json"]
+}
